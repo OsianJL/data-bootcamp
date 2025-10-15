@@ -1,0 +1,15 @@
+ipykernel
+jupyterlab
+pandas
+numpy
+pyarrow
+polars
+matplotlib
+plotly
+seaborn
+scikit-learn
+statsmodels
+scipy
+python-dotenv
+pyjanitor
+pandera

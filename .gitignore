@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.python-version
+
+# Envs
+.venv/
+.direnv/
+.env
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+.notebook_cache/
+*.nbconvert.ipynb
+
+# Data (ajusta según necesidad)
+data/raw/
+data/processed/
+data/interim/
+data/external/
+
+# OS / misc
+.DS_Store
+Thumbs.db
+
+# Reports
+reports/
